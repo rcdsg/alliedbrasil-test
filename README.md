@@ -14,7 +14,7 @@ Iniciando a aplicação é preciso instalar as dependências para seu repositór
 
 Para iniciar a alicação em ambiente local basta rodar o comando `npm start`
 
-### `Autor`
+### Autor
 
 Rodrigo Costa
 
