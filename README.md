@@ -1,4 +1,4 @@
-# Aplicação teste em ReactJS
+# Aplicação com ReactJS
 
 Esta aplicação foi desenvolvida com estruturas básicas do ReactJs para vaga profissional.
 
