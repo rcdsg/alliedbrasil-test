@@ -21,7 +21,3 @@ Rodrigo Costa
 Perfil do [Linkedin](https://www.linkedin.com/in/rodrigo-costa-116a665/).
 
 Obrigado :)
-
-### `npm run build` fails to minify
-
-This section has moved h.....
