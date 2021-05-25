@@ -6,11 +6,11 @@ Esta aplicação foi desenvolvida com estruturas básicas do ReactJs para vaga p
 
 A aplicação é relacionada a assinatura de planos de dados para Tablets, PC's e Wi-fi de Operadoras. A mesma consome dados de uma API externa.
 
-### Instalando dependências
+## Instalando dependências
 
 Iniciando a aplicação é preciso instalar as dependências para seu repositório escolhido, usando no terminal, `npm install`.
 
-### Iniciando
+## Iniciando
 
 Para iniciar a alicação em ambiente local basta rodar o comando `npm start`
 
